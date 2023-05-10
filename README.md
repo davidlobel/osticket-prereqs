@@ -41,7 +41,7 @@ Be sure to note what region you select, as this will be important in creating fu
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a Virtual Machine (VM) in your newly created Resource Group. A VM is a self-selected allocation of compute resources (OS, CPU, etc.) stored on a data center server, which you will be able to access from anywhere in the world via the internet. You will need to ensure that the region matches that of the Resource Group which you selected in the previous step. For this example I will be using a Windows 10 operating system with 4vCPUs. Name this machine, create a username and password, and make note of these credentials as they will be necessary to log in to this resource in the same manner that you would log in to your physical desktop or laptop machine.
+Create a Virtual Machine (VM) in your newly created Resource Group. A VM is a self-selected allocation of compute resources (OS, CPU, etc.) stored on a data center server, which you will be able to access from anywhere in the world via the internet. You will need to ensure that the region matches that of the Resource Group which you selected in the previous step. For this example I will be using a Windows 10 operating system with 4vCPUs. Name this machine, create a username and password, and make note of these credentials as they will be necessary to log in to this resource in the same manner that you would log in to your physical desktop or laptop machine. Ensure that your selections allow for the creation of a virtual network.
 
 Once you are satisfied with your selections, create your resource. 
   
